@@ -1,0 +1,5 @@
+baseURL = "http://style.lizzwestman.net"
+languageCode = "en-us"
+title = "Lizz Westman Dot Net"
+theme = "kube"
+googleAnalytics = "90664490"
